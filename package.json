@@ -4,7 +4,7 @@
   "description": "<!-- Please update value in the {}  -->",
   "main": "index.js",
   "scripts": {
-    "build": "gulp"
+    "build": "gulp build"
   },
   "author": "Denis Chigorin",
   "license": "ISC",
